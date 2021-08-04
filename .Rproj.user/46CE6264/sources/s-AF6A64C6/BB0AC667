@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628097344909.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BB0AC667",
+    "lastKnownWriteTime" : 1628097639,
+    "last_content_update" : 1628097639333,
+    "path" : "C:/Users/PAHO/projects/PAHO/cleandata/rda/data correction.R",
+    "project_path" : "rda/data correction.R",
+    "properties" : {
+        "cursorPosition" : "20,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
